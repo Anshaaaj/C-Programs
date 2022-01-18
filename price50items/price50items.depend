@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532916940 source:c:\users\administrator\documents\class 12\price50items\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+

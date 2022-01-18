@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1409748086 source:c:\users\admin\documents\c++ programs\postfix_eval\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
