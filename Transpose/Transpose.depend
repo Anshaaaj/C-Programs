@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1396445848 source:c:\users\admin\documents\c++ programs\transpose\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+
+1396445850 source:d:\class xii - tutorial\transpose\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+
