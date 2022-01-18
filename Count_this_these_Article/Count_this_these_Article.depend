@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437965282 source:c:\users\admin\documents\class xii programs\count_this_these_article\main.cpp
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<stdio.h>
+	<conio.h>
+

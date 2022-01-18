@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1437963500 source:c:\users\admin\documents\class xii programs\count_lcase_booktxt\main.cpp
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<stdio.h>
+
