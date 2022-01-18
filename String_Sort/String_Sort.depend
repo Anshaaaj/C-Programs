@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415412708 source:d:\class xii - tutorial\string_sort\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
