@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1396445142 source:c:\users\admin\documents\c++ programs\mat_mult\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+
