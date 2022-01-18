@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1435293004 source:c:\users\admin\documents\class xii programs\program_view _topper\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
+1435301642 source:c:\users\administrator\desktop\class xii - tutorial\program_view _topper\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	<string.h>
+
