@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425386472 source:d:\class xii - tutorial\sieve_of_eratosthenes\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
