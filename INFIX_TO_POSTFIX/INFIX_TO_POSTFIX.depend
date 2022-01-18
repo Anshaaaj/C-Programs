@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1409747973 source:c:\users\admin\documents\c++ programs\infix_to_postfix\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1409747974 source:f:\class xii - tutorial\infix_to_postfix\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
