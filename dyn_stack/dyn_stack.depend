@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1398123852 source:c:\users\admin\documents\c++ programs\dyn_stack\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1398123854 source:d:\class xii - tutorial\dyn_stack\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
