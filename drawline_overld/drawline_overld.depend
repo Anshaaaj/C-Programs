@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404164680 source:c:\users\admin\documents\c++ programs\drawline_overld\main.cpp
+	<iostream>
+	<conio.h>
+
