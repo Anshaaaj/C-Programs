@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1396420594 source:c:\users\admin\documents\c++ programs\bubble_sort\main.cpp
+	<iostream>
+	<conio.h>
+
+1396420696 source:d:\class xii - tutorial\bubble_sort\main.cpp
+	<iostream>
+	<conio.h>
+
